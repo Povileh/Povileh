@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Povileh
+- 👀 I’m interested in content creation, programming and I love food.
+- 🌱 I’m currently learning React.js.
